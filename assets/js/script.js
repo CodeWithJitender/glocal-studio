@@ -193,7 +193,8 @@
 		});
 	}
 
-
+	$(".main-header").load("../header.html")
+	$(".main-footer").load("../footer.html")
 	
 	
 	//Event Countdown Timer
