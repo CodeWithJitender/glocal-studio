@@ -165,7 +165,8 @@ body {
     position: fixed;
     top: 0;
     left: 0;
-    background: linear-gradient(135deg, rgba(239, 130, 67, 1) 0%, rgba(255, 101, 12, 1) 100%);
+   background: linear-gradient(135deg, rgba(161, 77, 255, 1) 0%, rgba(129, 12, 255, 1) 100%);
+
     z-index: 9999999;
     display: flex;
     justify-content: center;

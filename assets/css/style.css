@@ -596,7 +596,11 @@
 }
 
 .feature-block_two-inner:hover{
-	background-image: linear-gradient(to bottom, #fe5d01, #f65a01, #ed5701, #e55401, #dd5101);
+	background-image: linear-gradient(to bottom, #a94eff,  /* lighter purple */
+  #9640ff,  /* mid-light */
+  #810cff,  /* base */
+  #6b0acc,  /* darker */
+  #550899   /* darkest */);
 }
 
 .feature-block_two-title{
