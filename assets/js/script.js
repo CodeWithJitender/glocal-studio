@@ -195,6 +195,7 @@
 
 	$(".main-header").load("../header.html")
 	$(".main-footer").load("../footer.html")
+	$(".contact-one").load("../contact-us-section.html")
 	
 	
 	//Event Countdown Timer
@@ -1017,12 +1018,6 @@
 					required: true,
 					email: true
 				},
-				services: {
-					required: true
-				},
-				message: {
-					required: true
-				}
 			}
 		});
 	}

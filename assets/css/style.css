@@ -387,7 +387,7 @@
 	font-weight:600;
 	font-size:16px;
 	display:flex;
-	gap:55px;
+	gap:15px;
 	padding:15px 30px;
 	color:var(--black-color);
 }
@@ -731,7 +731,7 @@
 	border-radius:50px;
 	display:inline-block;
 	color:var(--white-color);
-	transform:rotate(-45deg);
+	transform:rotate(45deg);
 	background-color:var(--black-color);
 }
 
