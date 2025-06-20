@@ -1337,7 +1337,9 @@
 }
 
 @media only screen and (max-width: 479px) {
-	
+	.testimonial-one_circle{
+		border-color	: rgba(177, 177, 177, 0.3);
+	}
 	.slider-two_options,
 	.about-widget{
 		display:none;
