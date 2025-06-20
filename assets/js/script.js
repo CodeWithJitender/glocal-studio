@@ -193,7 +193,7 @@
 		});
 	}
 
-	$(".main-header").load("../header.html")
+	// $(".main-header").load("../header.html")
 	$(".main-footer").load("../footer.html")
 	$(".contact-one").load("../contact-us-section.html")
 	
