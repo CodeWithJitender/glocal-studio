@@ -1,8 +1,8 @@
 <?php
 
 // Define some constants
-define( "RECIPIENT_NAME", "My Name" );
-define( "RECIPIENT_EMAIL", "youremail@mail.com" );
+define( "RECIPIENT_NAME", "Glocal Studio" );
+define( "RECIPIENT_EMAIL", "info@glocalstudio.in" );
 
 
 // Read the form values
