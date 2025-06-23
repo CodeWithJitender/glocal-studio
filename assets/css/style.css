@@ -5384,6 +5384,7 @@
 .customer-block_one-inner{
 	position:relative;
 	padding:70px 35px;
+	height: 100%;
 	overflow:hidden;
 	border-radius:25px;
 	background-color:var(--white-color);
